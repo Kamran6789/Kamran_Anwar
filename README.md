@@ -69,4 +69,4 @@ When I’m not scraping the web or building automations, you can find me explori
 
 ---
 
-> **“Automating the web, one script at a time. 🚀”**
+
